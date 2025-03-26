@@ -1,12 +1,12 @@
 <h1 align="left">Hi!👋</h1>
 
 ###
-
-<p align="left">My name is Lara Loveira and I'm a front-end student from📍Galicia, Spain :D</p>
+<p align="left">✨My name is Lara Loveira and I'm from📍Galicia, Spain</p>
+<p align="left">📚I'm a currently DAW student that's trying to learn and improve as a web developer :)</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👩‍💻More about me</h2>
 
 ###
 
@@ -14,6 +14,20 @@
 
 ###
 
-<p align="left">✨Creating bugs since 2023<br>📚I'm currently learning :)<br>🌱I already have practice in Java, html, css, bootstrap, C#, .NET, SQL, and currently I'm with javascript, Ajax and React.<br>💡I've done some works with Wordpress<br>⚡In my free time, I like to practice coding and do some exercise.</p>
+<p align="left">✨Creating bugs since 2023<br><br>⚡In my free time, I like to practice coding and investigate about new interesting things.<br><br><br></p>
 
 ###
+
+<h2 align="left">Languages ​​I have used</h2>
+
+###
+
+<p align="left">✨JAVA, CSS3, HTML5<br></p>
+
+###
+
+<h2 align="left">Ides I've worked with</h2>
+
+###
+
+<p align="left">✨ECLIPSE, INTELIJ IDEA, VISUAL STUDIO / CODE</p>
