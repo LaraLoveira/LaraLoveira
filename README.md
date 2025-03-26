@@ -35,3 +35,10 @@
 
 <p align="left">💡SQL SERVER<br><br></p>
 
+###
+
+<h2 align="left">🌱Frameworks</h2>
+
+###
+
+<p align="left">💡.NET, Ajax, JQuery<br><br></p>
