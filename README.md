@@ -14,6 +14,6 @@
 
 ###
 
-<p align="left">✨Creating bugs since 2023✨<br>📚I'm currently learning :)📚<br>I already have practice in Java, html, css, bootstrap, C#, .NET, SQL, <br> and now I'm with javascript, Ajax and React.<br>💡I've done some works with Wordpress💡<br>⚡In my free time, I like to practice coding and do some exercise.⚡</p>
+<p align="left">✨Creating bugs since 2023<br>📚I'm currently learning :)<br>🌱I already have practice in Java, html, css, bootstrap, C#, .NET, SQL, and now I'm with javascript, Ajax and React.<br>💡I've done some works with Wordpress<br>⚡In my free time, I like to practice coding and do some exercise.</p>
 
 ###
