@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">🌱Languages ​​I've used</h2>
+<h2 align="left">🌱Languages ​​I've learn</h2>
 
 ###
 
