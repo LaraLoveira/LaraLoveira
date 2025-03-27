@@ -4,7 +4,7 @@
 
 <!--<img align="right" height="200" weight="200" src="https://github.com/user-attachments/assets/920a1cc0-e4db-402b-8c03-1c016e46b680" /> -->
 <!-- <img align="right" height="150" weight="150" src="https://i.imgflip.com/65efzo.gif" /> -->
-<img align="right" height="200" weight="200" src="https://github.com/user-attachments/assets/a661aa2d-30c8-4cf3-a5c1-ac69eb8b7cfd" />
+<img align="right" height="180" weight="180" src="https://github.com/user-attachments/assets/a661aa2d-30c8-4cf3-a5c1-ac69eb8b7cfd" />
 
 ###
 
