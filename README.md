@@ -16,9 +16,21 @@
 <h2 align="left">🛠️I've worked with:</h2>
 
 ###
-<p align="left"><b><i>⚡Languages:</i></b> JS, CSS3, HTML5, JAVA, C#<br></p>
-<p align="left"><b><i>⚡IDES:</i></b> ECLIPSE, INTELIJ IDEA, VISUAL STUDIO / CODE<br></p>
-<p align="left"><b><i>⚡Databases:</i></b> SQL SERVER<br></p>
-<p align="left"><b><i>⚡Frameworks:</i></b> .NET, Ajax, JQuery<br></p>
+
+<p align="left"><b><i>⚡Languages:</i></b></p>
+<img src="https://skillicons.dev/icons?i=js,html,css,java,cs,sass" />
+<p align="left"><b><i>⚡IDES:</i></b></p>
+<img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode" />
+<p align="left"><b><i>⚡Databases:</i></b></p>
+<img src="https://skillicons.dev/icons?i=mysql,azure" />
+<p align="left"><b><i>⚡Frameworks:</i></b></p>
+<img src="https://skillicons.dev/icons?i=dotnet,jquery,react" />
+<p align="left"><b><i>⚡OS:</i></b></p>
+<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
+
+###
+
+<h2 align="left">🛠️Tools:</h2>
+<img src="https://skillicons.dev/icons?i=github,githubactions,docker,powershell,bash,wordpress" />
 
 ###
