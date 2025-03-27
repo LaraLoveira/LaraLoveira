@@ -9,13 +9,13 @@
 ###
 
 <p align="left">👩‍💻Welcome to my GitHub profile! My name is Lara😊 and I'm from Galicia, Spain &#127466;&#127480;<br></p>
-<p align="left">📚I'm currently a DAW student that's trying to learn and improve as a web developer :)<br></p>
+<p align="left">📚I'm currently a DAW student that's learning and improving as a web developer :)<br></p>
 <p align="left">✨Creating bugs since 2023<br></p>
 <p align="left">👀In my free time, I like to practice coding and investigate about new interesting things<br><br></p>
 
 ###
 
-<h2 align="left">🛠️I've worked with:</h2>
+<h2 align="left">🛠️I've worked wit:</h2>
 
 ###
 
