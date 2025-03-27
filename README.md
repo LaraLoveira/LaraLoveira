@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="150" weight="150" src="https://i.imgflip.com/65efzo.gif" />
-
+<!-- <img align="right" height="150" weight="150" src="https://i.imgflip.com/65efzo.gif" /> -->
+<img align="right" height="200" weight="200" src="https://github.com/user-attachments/assets/a661aa2d-30c8-4cf3-a5c1-ac69eb8b7cfd" />
 ###
 
-<p align="left">👩‍💻Welcome to my GitHub profile! My name is Lara 😊 I'm from Galicia, Spain &#127466;&#127480;<br></p>
+<p align="left">👩‍💻Welcome to my GitHub profile! My name is Lara😊 and I'm from Galicia, Spain &#127466;&#127480;<br></p>
 <p align="left">📚I'm currently a DAW student that's trying to learn and improve as a web developer :)<br></p>
 <p align="left">✨Creating bugs since 2023<br></p>
 <p align="left">👀In my free time, I like to practice coding and investigate about new interesting things<br><br></p>
