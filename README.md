@@ -27,12 +27,10 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 <p align="left"><b><i>⚡Frameworks:</i></b></p>
 <img src="https://skillicons.dev/icons?i=dotnet,jquery" />
-<p align="left"><b><i>⚡OS:</i></b></p>
-<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
 
 ###
 
 <h2 align="left">⚙️Tools:</h2>
-<img src="https://skillicons.dev/icons?i=github,githubactions,docker,powershell,bash,wordpress" />
+<img src="https://skillicons.dev/icons?i=github,githubactions,docker,powershell,bash,wordpress,linux,windows,ubuntu" />
 
 ###
