@@ -26,7 +26,7 @@
 <p align="left"><b><i>⚡Databases:</i></b></p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 <p align="left"><b><i>⚡Frameworks:</i></b></p>
-<img src="https://skillicons.dev/icons?i=dotnet,jquery,react" />
+<img src="https://skillicons.dev/icons?i=dotnet,jquery" />
 <p align="left"><b><i>⚡OS:</i></b></p>
 <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
 
