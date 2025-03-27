@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">🛠️Tools:</h2>
+<h2 align="left">⚙️Tools:</h2>
 <img src="https://skillicons.dev/icons?i=github,githubactions,docker,powershell,bash,wordpress" />
 
 ###
