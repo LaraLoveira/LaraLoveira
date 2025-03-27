@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">🛠️I've worked wit:</h2>
+<h2 align="left">🛠️I've practice with:</h2>
 
 ###
 
