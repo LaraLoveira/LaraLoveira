@@ -22,7 +22,7 @@
 <p align="left"><b><i>⚡IDES:</i></b></p>
 <img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode" />
 <p align="left"><b><i>⚡Databases:</i></b></p>
-<img src="https://skillicons.dev/icons?i=mysql,azure" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 <p align="left"><b><i>⚡Frameworks:</i></b></p>
 <img src="https://skillicons.dev/icons?i=dotnet,jquery,react" />
 <p align="left"><b><i>⚡OS:</i></b></p>
