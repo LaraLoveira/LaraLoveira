@@ -34,3 +34,9 @@
 <img src="https://skillicons.dev/icons?i=github,githubactions,docker,bash,linux,wordpress" />
 
 ###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/LaraLoveira/count.svg?"  />
+</div>
+
+###
