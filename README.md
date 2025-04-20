@@ -24,7 +24,7 @@
 <!--<p align="left"><b><i>⚡IDES:</i></b></p>-->
 <!--<img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode" />-->
 <p align="left"><b><i>⚡Frameworks:</i></b></p>
-<img src="https://skillicons.dev/icons?i=dotnet,jquery,react" />
+<img src="https://skillicons.dev/icons?i=dotnet,jquery,react,bootstrap" />
 <p align="left"><b><i>⚡Databases:</i></b></p>
 <!-- <img src="https://skillicons.dev/icons?i=" /> --> <p>SQL Server</p>
 
