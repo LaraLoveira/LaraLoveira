@@ -40,3 +40,6 @@
 </div>
 
 ###
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaraLoveira&show_icons=true) -->
+
