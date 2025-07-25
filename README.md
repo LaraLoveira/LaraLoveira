@@ -20,11 +20,11 @@
 ###
 
 <p align="left"><b><i>⚡Languages:</i></b></p>
-<img src="https://skillicons.dev/icons?i=js,html,css,java,cs" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,java,cs" />
 <p align="left"><b><i>⚡IDES:</i></b></p>
 <img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode" />
 <p align="left"><b><i>⚡Frameworks:</i></b></p>
-<img src="https://skillicons.dev/icons?i=dotnet,jquery,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=dotnet,jquery,react,bootstrap,astro" />
 <p align="left"><b><i>⚡Databases:</i></b></p>
 <!-- <img src="https://skillicons.dev/icons?i=" /> --> <p>SQL Server</p>
 
@@ -35,9 +35,9 @@
 
 ###
 
-<div align="left">
+<!--<div align="left">
   <img src="https://profile-counter.glitch.me/LaraLoveira/count.svg?"  />
-</div>
+</div>-->
 
 ###
 
