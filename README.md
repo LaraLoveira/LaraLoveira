@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
 <h1 align="left">Hi!👋</h1>
 
 ###
@@ -35,11 +41,14 @@
 
 ###
 
-<!--<div align="left">
-  <img src="https://profile-counter.glitch.me/LaraLoveira/count.svg?"  />
-</div>-->
+<div align="center">
+  <img src="https://count.getloli.com/@:LaraLoveira?theme=booru-jaypee&padding=5&offset=0&scale=1&align=center&pixelated=0&darkmode=auto"  />
+</div>
 
 ###
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaraLoveira&show_icons=true) -->
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
+###
