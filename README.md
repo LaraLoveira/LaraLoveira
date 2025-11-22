@@ -18,6 +18,7 @@
 <p align="left">📚I'm currently a DAW student that's learning and improving as a web developer :)<br></p>
 <p align="left">✨Creating bugs since 2023<br></p>
 <p align="left">👀In my free time, I like to practice coding and investigate about new interesting things<br><br></p>
+<p align="left"><a href="https://portfolio-react-eight-bay.vercel.app" target="_blank" rel="noopener noreferrer">Click here to see my portfolio live!</a><br><br></p>
 
 ###
 
