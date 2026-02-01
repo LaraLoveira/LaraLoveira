@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi!👋</h1>
+<h1 align="left"><b>Hi!👋</b></h1>
 
 ###
 
@@ -14,15 +14,15 @@
 
 ###
 
-<p align="left">👩‍💻Welcome to my GitHub profile! My name is Lara and I'm from Galicia, Spain &#127466;&#127480;<br></p>
+<p align="left">👩‍💻Welcome to my GitHub profile! My name is <i>Lara</i> and I'm from Galicia, Spain &#127466;&#127480;<br></p>
 <p align="left">📚Recently graduated in DAW, now working in the sector and improving my web development skills every day :)<br></p>
 <p align="left">✨Creating bugs since 2023<br></p>
 <p align="left">👀In my free time, I enjoy coding and exploring new interesting topics<br><br></p>
-<p align="left"><a href="https://portfolio-react-eight-bay.vercel.app" target="_blank" rel="noopener noreferrer">Click here to see my portfolio :D!</a><br><br></p>
+<p align="left"><a href="https://portfolio-react-eight-bay.vercel.app" target="_blank" rel="noopener noreferrer"><b>Click here to see my portfolio :D !</b></a><br><br></p>
 
 ###
 
-<h2 align="left">🛠️I've practiced with:</h2>
+<h2 align="left"><b>🛠️I've practiced with:</b></h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="left">⚙️Tools:</h2>
+<h2 align="left"><b>⚙️Tools:</b></h2>
 <img src="https://skillicons.dev/icons?i=github,githubactions,docker,bash,linux,figma" />
 
 ###
