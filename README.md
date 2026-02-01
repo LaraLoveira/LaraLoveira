@@ -35,7 +35,7 @@
 <p align="left"><b><i>⚡Database:</i></b></p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,graphql"/><p></b>& SQL Server</b></p>
 <p align="left"><b><i>⚡CMS:</i></b></p>
-<img src="https://skillicons.dev/icons?i=wordpress,drupal,moodle"/><p><b>& Drupal, Moodle</b></p>
+<img src="https://skillicons.dev/icons?i=wordpress,drupal,moodle"/><p><b>Drupal & Moodle</b></p>
 
 ###
 
