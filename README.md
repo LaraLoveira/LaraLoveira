@@ -27,18 +27,20 @@
 ###
 
 <p align="left"><b><i>⚡Languages:</i></b></p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,java,cs,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,php"/>
 <p align="left"><b><i>⚡IDES:</i></b></p>
-<img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode"/>
 <p align="left"><b><i>⚡Frameworks:</i></b></p>
-<img src="https://skillicons.dev/icons?i=dotnet,jquery,react,nodejs,bootstrap,astro,vite" />
-<p align="left"><b><i>⚡Databases:</i></b></p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,graphql" /> <p>SQL Server</p>
+<img src="https://skillicons.dev/icons?i=dotnet,jquery,react,nodejs,bootstrap,astro,vite"/>
+<p align="left"><b><i>⚡Database:</i></b></p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,graphql"/><p></b>& SQL Server</b></p>
+<p align="left"><b><i>⚡CMS:</i></b></p>
+<img src="https://skillicons.dev/icons?i=wordpress,drupal,moodle"/><p><b>& Drupal, Moodle</b></p>
 
 ###
 
 <h2 align="left">⚙️Tools:</h2>
-<img src="https://skillicons.dev/icons?i=github,githubactions,docker,bash,linux,wordpress,figma" />
+<img src="https://skillicons.dev/icons?i=github,githubactions,docker,bash,linux,figma" />
 
 ###
 
