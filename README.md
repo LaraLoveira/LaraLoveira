@@ -44,6 +44,10 @@
 
 ###
 
+</br><p align="center"><a href="https://portfolio-react-eight-bay.vercel.app" target="_blank" rel="noopener noreferrer">↪️<b><i> See my Web! </i></b>↩️</a></p></br>
+
+###
+
 <div align="center">
   <img src="https://count.getloli.com/@:LaraLoveira?theme=booru-jaypee&padding=5&offset=0&scale=1&align=center&pixelated=0&darkmode=auto"  />
 </div>
