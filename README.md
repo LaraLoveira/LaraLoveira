@@ -18,7 +18,11 @@
 <p align="left">📚Recently graduated in DAW, now working in the sector and improving my web development skills every day :)<br></p>
 <p align="left">✨Creating bugs since 2023<br></p>
 <p align="left">👀In my free time, I enjoy coding and exploring new interesting topics<br><br></p>
-<p align="left"><a href="https://portfolio-react-eight-bay.vercel.app" target="_blank" rel="noopener noreferrer"><b>Click here to see my portfolio :D !</b></a><br><br></p>
+<p align="left">
+  <a href="https://portfolio-react-eight-bay.vercel.app" target="_blank" rel="noopener noreferrer">
+    <b>Click here to see my portfolio :D !</b>
+  </a>
+</p>
 
 ###
 
