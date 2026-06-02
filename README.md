@@ -37,14 +37,14 @@
 <p align="left"><b><i>⚡Frameworks:</i></b></p>
 <img src="https://skillicons.dev/icons?i=dotnet,jquery,react,nodejs,bootstrap,astro,vite"/>
 <p align="left"><b><i>⚡Database:</i></b></p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,graphql"/><p></b>& SQL Server</b></p>
+<img src="https://skillicons.dev/icons?i=mysql,graphql"/><p></b>& SQL Server</b></p>
 <p align="left"><b><i>⚡CMS:</i></b></p>
 <img src="https://skillicons.dev/icons?i=wordpress,drupal,moodle,joomla"/><p><b>Drupal, Joomla & Moodle</b></p>
 
 ###
 
 <h2 align="left"><b>⚙️Tools:</b></h2>
-<img src="https://skillicons.dev/icons?i=github,githubactions,docker,bash,linux,figma" />
+<img src="https://skillicons.dev/icons?i=github,githubactions,docker,bash,cmd,linux,figma" />
 
 ###
 
