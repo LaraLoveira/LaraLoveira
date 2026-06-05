@@ -15,7 +15,7 @@
 ###
 
 <p align="left">👩‍💻Welcome to my GitHub profile! My name is <i>Lara</i> and I'm from Galicia, Spain &#127466;&#127480;<br></p>
-<p align="left">📚Recently graduated in DAW, now working in the sector and improving my web development skills every day :)<br></p>
+<p align="left">📚Recently graduated in Web App Development, now working in the sector and improving my web development skills every day :)<br></p>
 <p align="left">✨Creating bugs since 2023<br></p>
 <p align="left">👀In my free time, I enjoy coding and exploring new interesting topics<br><br></p>
 <p align="left">
