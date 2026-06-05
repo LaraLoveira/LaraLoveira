@@ -39,18 +39,15 @@
 <p align="left"><b><i>⚡Database:</i></b></p>
 <img src="https://skillicons.dev/icons?i=mysql,graphql"/><p></b>& SQL Server</b></p>
 <p align="left"><b><i>⚡CMS:</i></b></p>
-<img src="https://skillicons.dev/icons?i=wordpress,drupal,moodle,joomla"/><p><b>Drupal, Joomla & Moodle</b></p>
+<p><b>Wordpress, Drupal, Joomla & Moodle</b></p>
 
 ###
 
 <h2 align="left"><b>⚙️Tools:</b></h2>
-<img src="https://skillicons.dev/icons?i=github,githubactions,docker,bash,cmd,linux,figma" />
+<img src="https://skillicons.dev/icons?i=github,githubactions,docker,bash,linux,figma" />
 
 ###
 
-<!-- </br><p align="center"><a href="https://portfolio-react-eight-bay.vercel.app" target="_blank" rel="noopener noreferrer">↪️<b><i> See my Web! </i></b>↩️</a></p></br> -->
-
-###
 
 <div align="center">
   <img src="https://count.getloli.com/@:LaraLoveira?theme=booru-jaypee&padding=5&offset=0&scale=1&align=center&pixelated=0&darkmode=auto"  />
