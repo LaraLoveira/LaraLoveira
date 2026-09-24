@@ -1,62 +1,102 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"
+    alt="Header"
+  />
 </div>
 
-###
+# Hi! I'm Lara 👋
 
-<h1 align="left"><b>Hi!👋</b></h1>
+<img
+  align="right"
+  height="190"
+  width="auto"
+  src="https://github.com/user-attachments/assets/920a1cc0-e4db-402b-8c03-1c016e46b680"
+  alt="Lara developer illustration"
+/>
 
-###
+👩‍💻 I'm a **Web Developer** from Galicia, Spain 🇪🇸
 
-<img align="right" height="200" weight="200" src="https://github.com/user-attachments/assets/920a1cc0-e4db-402b-8c03-1c016e46b680" />
-<!-- <img align="right" height="150" weight="150" src="https://i.imgflip.com/65efzo.gif" /> -->
-<!-- <img align="right" height="180" weight="180" src="https://github.com/user-attachments/assets/a661aa2d-30c8-4cf3-a5c1-ac69eb8b7cfd" /> -->
+💻 I work mainly on **CMS development, frontend development and web experiences**, combining platforms such as **WordPress, Drupal, Joomla and Moodle** with modern technologies like **React, TypeScript, Astro and Vite**.
 
-###
+🧩 I enjoy working across the whole web development process - from building and customising CMS solutions to developing responsive interfaces, integrating APIs and improving existing websites.
 
-<p align="left">👩‍💻Welcome to my GitHub profile! My name is <i>Lara</i> and I'm from Galicia, Spain &#127466;&#127480;<br></p>
-<p align="left">📚Recent Web App Development graduate, currently starting a degree in Multimedia. I am already working in the industry and improving my web development skills every day :)<br></p>
-<p align="left">✨Creating bugs since 2023<br></p>
-<p align="left">👀In my free time, I enjoy coding and exploring new interesting topics<br><br></p>
-<p align="left">
-  <a href="https://portfolio-react-eight-bay.vercel.app" target="_blank" rel="noopener noreferrer">
-    <b>Click here to see my portfolio :D !</b>
-  </a>
+🎓 I'm also continuing my education in **Multimedia**, expanding my knowledge in UI/UX, digital design and interactive experiences.
+
+🚀 Currently focused on improving my skills in **modern frontend development, CMS architecture, performance and accessible web development**.
+
+✨ Creating bugs since 2023.
+
+<br>
+
+<a href="https://lara-loveira-portfolio.vercel.app" target="_blank">
+  <strong>🌐 Check out my portfolio! :D</strong>
+</a>
+
+<br clear="both">
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 CMS & Web Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal">
+  <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla">
+  <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle">
 </p>
 
-###
+### 🎨 Frontend
 
-<h2 align="left"><b>🛠️I've practiced with:</b></h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,bootstrap,jquery" alt="Frontend technologies"/>
+</p>
 
-###
+**HTML5 · CSS3 · JavaScript · TypeScript · React · Astro · Bootstrap · jQuery**
 
-<p align="left"><b><i>⚡Languages:</i></b></p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,php"/>
-<p align="left"><b><i>⚡IDES:</i></b></p>
-<img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode"/>
-<p align="left"><b><i>⚡Frameworks:</i></b></p>
-<img src="https://skillicons.dev/icons?i=dotnet,jquery,react,nodejs,bootstrap,astro,vite"/>
-<p align="left"><b><i>⚡Database:</i></b></p>
-<img src="https://skillicons.dev/icons?i=mysql,graphql"/><p></b>& SQL Server</b></p>
-<p align="left"><b><i>⚡CMS:</i></b></p>
-<p><b>Wordpress, Drupal, Joomla & Moodle</b></p>
+### ⚙️ Backend & Programming
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,java,cs,dotnet" alt="Backend technologies"/>
+</p>
 
-<h2 align="left"><b>⚙️Tools:</b></h2>
-<img src="https://skillicons.dev/icons?i=github,githubactions,docker,bash,linux,figma" />
+**PHP · Node.js · Java · C# · .NET**
 
-###
+### 🗄️ Data & APIs
 
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,graphql" alt="Data technologies"/>
+</p>
 
-<div align="center">
-  <img src="https://count.getloli.com/@:LaraLoveira?theme=booru-jaypee&padding=5&offset=0&scale=1&align=center&pixelated=0&darkmode=auto"  />
-</div>
+**MySQL · SQL Server · GraphQL**
 
-###
+### 🔧 Development Tools
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,git,github,githubactions,docker,bash,linux,vite,figma" alt="Development tools"/>
+</p>
 
-###
+**Git · GitHub · GitHub Actions · Docker · Bash · Linux · Vite · Figma**
+
+---
+
+## 🚀 What I work with
+
+- 🧩 **CMS development** --> customisation, themes, modules/plugins and content architecture.
+- 🎨 **Frontend development** --> responsive and accessible interfaces using modern web technologies.
+- ⚛️ **React & TypeScript** --> component-based frontend development.
+- 🔌 **Web integrations** --> APIs, dynamic content and third-party services.
+- ⚡ **Performance & optimisation** --> improving existing websites and development workflows.
+- 🐳 **Development environments** --> Docker, Git and modern development tooling.
+
+---
+
+## 📚 Currently exploring
+
+```text
+CMS Architecture  •  Drupal  •  WordPress
+React  •  TypeScript  •  Astro
+UI/UX  •  Accessibility  •  Web Performance
